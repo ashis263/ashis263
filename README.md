@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<h1 align="center">🙋Hello world! I'm Ashis, a Junior Web Devloper</h1><p align="justify">I'm a <b>Junior Web Developer</b> from Rangpur, Bangladesh. I'm comfortable working with Javascript programming language. I primarily work with ReactJS and Tailwind CSS for developing the client side of web application. I have hands-on experience working with <b>MERN</b> for developing web application.</p>
+<h1 align="center">🙋Hi! I'm Ashis, a Junior Web Devloper</h1><p align="justify">I'm a <b>Junior Web Developer</b> from Rangpur, Bangladesh. I'm comfortable working with Javascript programming language. I primarily work with ReactJS and Tailwind CSS for developing the client side of web application. I have hands-on experience working with <b>MERN</b> for developing web application.</p>
 
 <h2 align="center">🚀 More About Me</h2>
 <p align="center">
