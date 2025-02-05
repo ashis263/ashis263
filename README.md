@@ -40,8 +40,8 @@
 <a href="https://git.io/streak-stats">
   <img src="https://nirzak-streak-stats.vercel.app?user=ashis263&theme=shadow-blue" alt="GitHub Streak Stats">
 </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=ashis263&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shadow-blue&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashis263&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shadow-blue&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashis263&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shadow-blue&bg_color=FFFFFF00&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashis263&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shadow-blue&bg_color=FFFFFF00&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 <h2 align="center">🤝 Connect with Me</h2>
